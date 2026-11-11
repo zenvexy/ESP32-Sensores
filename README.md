@@ -4,6 +4,8 @@ Projeto em desenvolvimento com ESP32, LDR, DHT11, API em Node.js e banco MySQL. 
 
 As fotos e capturas estão em `_assets/images` e `_assets/screenshots`. Cada imagem aparece junto da etapa que ilustra. Os comandos de terminal deste tutorial são para o **Prompt de Comando do Windows (CMD)**.
 
+> Atenção! Se optar por usar o link do pages, mantenha o servidor e o Xampp ligados.
+
 ## 1. Teste do LDR com LED
 
 A montagem registrada nas fotos usa ESP32, protoboard, LDR e LED. Confira a ligação dos componentes e use resistor para limitar a corrente do LED. As fotos documentam o teste realizado; confira os pinos pelo código antes de montar.
