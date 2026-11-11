@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Estufa do Sr. Fujimo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Estufa do Sr. Fujimo</h1>
+      <p>Temperatura, umidade e luminosidade medidas pelo ESP32.</p>
+      <p id="status">Carregando medições...</p>
+    </header>
+
+    <section class="resumo" aria-label="Última medição">
+      <div class="card">
+        <h2>Temperatura</h2>
+        <p><strong id="temperatura">--</strong> °C</p>
+      </div>
+      <div class="card">
+        <h2>Umidade</h2>
+        <p><strong id="umidade">--</strong> %</p>
+      </div>
+      <div class="card">
+        <h2>Luminosidade</h2>
+        <p><strong id="luminosidade">--</strong> ADC</p>
+      </div>
+    </section>
+
+    <p id="alerta" class="alerta" role="status">Aguardando a primeira medição.</p>
+
+    <section class="historico" aria-label="Histórico">
+      <h2>Últimas 60 medições</h2>
+
+      <div class="card">
+        <h3>Temperatura (°C)</h3>
+        <div class="grafico"><canvas id="graficoTemperatura"></canvas></div>
+      </div>
+
+      <div class="card">
+        <h3>Umidade (%)</h3>
+        <div class="grafico"><canvas id="graficoUmidade"></canvas></div>
+      </div>
+
+      <div class="card">
+        <h3>Luminosidade (ADC)</h3>
+        <div class="grafico"><canvas id="graficoLuminosidade"></canvas></div>
+      </div>
+      <p id="avisoGraficos"></p>
+    </section>
+
+    <p class="nota">ADC é a leitura bruta do LDR (0 a 4095), não uma medida em lux. Os limites de alerta são exemplos e podem ser alterados em script.js.</p>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.1/dist/chart.umd.min.js" defer></script>
+  <script src="./graficos.js" defer></script>
+  <script src="./script.js" defer></script>
+</body>
+</html>

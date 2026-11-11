@@ -1,0 +1,939 @@
+type: collection.insomnia.rest/5.0
+schema_version: "5.1"
+name: Scratch Pad
+meta:
+  id: wrk_30c0fafa22104a21abecbf3ffed98ea3
+  created: 1771699340503
+  modified: 1775046382782
+  description: ""
+collection:
+  - name: Biblioteca
+    meta:
+      id: fld_5bb334ee3aa9409fbc6ccac2a625283f
+      created: 1756466410368
+      modified: 1757080436674
+      sortKey: -1756466410368
+      description: ""
+    children:
+      - name: Usuarios
+        meta:
+          id: fld_0057cde1da30410ab7e1d68838a0d804
+          created: 1756466454620
+          modified: 1756475684537
+          sortKey: -1756466454620
+          description: ""
+  - name: Aplicativo de Músicas
+    meta:
+      id: fld_2de4ba5fb4a047438481aeed86660e36
+      created: 1757073988115
+      modified: 1757074123159
+      sortKey: -1757073988115
+      description: ""
+    children:
+      - name: Usuários
+        meta:
+          id: fld_0b7a32d18d904bcab395806900234f50
+          created: 1757074039583
+          modified: 1757074039583
+          sortKey: -1757074039583
+          description: ""
+      - name: Músicas
+        meta:
+          id: fld_7405a357d2544d0c973fd08b8355af63
+          created: 1757074067962
+          modified: 1757074067962
+          sortKey: -1757074067962
+          description: ""
+      - name: Playlists
+        meta:
+          id: fld_0dcfc3d0ef734467bd11c6e7b7bd7a96
+          created: 1757074080484
+          modified: 1757074233126
+          sortKey: -1757074080484
+          description: ""
+      - name: Playlists Músicas
+        meta:
+          id: fld_6e33f0c22c4a4d74af0ad1d81156dc20
+          created: 1757074115873
+          modified: 1757074115873
+          sortKey: -1757074115873
+          description: ""
+  - name: Música
+    meta:
+      id: fld_45cc5849c66b42eaa4f81dbd746beca0
+      created: 1757078297820
+      modified: 1758287647180
+      sortKey: -1757078297820
+      description: ""
+    children:
+      - name: Musicas
+        meta:
+          id: fld_1ed009ce6c0a4264aac3e44a1f10e3ab
+          created: 1757078767352
+          modified: 1757078767352
+          sortKey: -1757078767352
+          description: ""
+      - name: Playlist
+        meta:
+          id: fld_4685fbdcb703468fbc373f15637abdc8
+          created: 1757079261517
+          modified: 1757079278953
+          sortKey: -1757079261517
+          description: ""
+      - name: Playlist Musicas
+        meta:
+          id: fld_2fcdbf32b2b74fce89425d6359c9f33e
+          created: 1757080553185
+          modified: 1757080553185
+          sortKey: -1757079014434.5
+          description: ""
+      - name: Usuarios
+        meta:
+          id: fld_18c76ca8effb4e99907593594da910c5
+          created: 1757092521996
+          modified: 1757092521996
+          sortKey: -1757078409866
+          description: ""
+  - name: "Loja Prova "
+    meta:
+      id: fld_8bd0a59a8026408b85b35f090e8f4b9a
+      created: 1758287663411
+      modified: 1758287684734
+      sortKey: -1758287663411
+      description: ""
+    children:
+      - name: Pedidos
+        meta:
+          id: fld_ec5cd9bf598f4b0fa0a9b43c6c797a48
+          created: 1758287680401
+          modified: 1758287680401
+          sortKey: -1758287680401
+          description: ""
+      - name: Clientes
+        meta:
+          id: fld_8a3afa77bcf54d2fb243c0a7f62d4a8d
+          created: 1758287692919
+          modified: 1758287692919
+          sortKey: -1758287692919
+          description: ""
+      - name: Produtos
+        meta:
+          id: fld_1a030234b30e4e2dbd7dddd69c63584c
+          created: 1758288143262
+          modified: 1758288181556
+          sortKey: -1758287704867
+          description: ""
+  - name: Locadora
+    meta:
+      id: fld_5d2c6f5ca24d437d9a9c7398cd24142f
+      created: 1758893248331
+      modified: 1759510122623
+      sortKey: -1758893248331
+      description: ""
+    children:
+      - name: Clientes
+        meta:
+          id: fld_9546f96c12174e8b87a0a95dac372cf1
+          created: 1758895772451
+          modified: 1758895772451
+          sortKey: -1758895772451
+          description: ""
+      - name: Filmes
+        meta:
+          id: fld_23eec1d769124bba9ffa711d643784b9
+          created: 1758895811014
+          modified: 1758895811014
+          sortKey: -1758895811014
+          description: ""
+      - name: Locações
+        meta:
+          id: fld_bd04c49b6de44b3486029d8d82dc93a5
+          created: 1759240125441
+          modified: 1759240133282
+          sortKey: -1758895811114
+          description: ""
+  - name: Futebol
+    meta:
+      id: fld_0f04b34a14a44177bf1db255996e00c2
+      created: 1759510085307
+      modified: 1759510085307
+      sortKey: -1759510085307
+      description: ""
+    children:
+      - name: Times
+        meta:
+          id: fld_2c53c1502aaf466ea86b4d5cc794b0a6
+          created: 1759510105194
+          modified: 1759510118539
+          sortKey: -1759510118496
+          description: ""
+      - name: Partidas
+        meta:
+          id: fld_831811c7ad5e4adda3a3089f27222f7b
+          created: 1759510137620
+          modified: 1759510137620
+          sortKey: -1759510101901.5
+          description: ""
+  - name: Postagem
+    meta:
+      id: fld_0b1c00a6118a449080035e0ee0bad935
+      created: 1760703433712
+      modified: 1760703433712
+      sortKey: -1760703433712
+      description: ""
+    children:
+      - name: Login
+        meta:
+          id: fld_40c026366f2943b1ae9dc284172c0aa3
+          created: 1760703479731
+          modified: 1760703479731
+          sortKey: -1760703479731
+          description: ""
+      - name: Post
+        meta:
+          id: fld_d8bc87f54e52471ca0a1cc94c5abf23f
+          created: 1760703491922
+          modified: 1760703491922
+          sortKey: -1760703491922
+          description: ""
+  - name: Educatech
+    meta:
+      id: fld_4dfae4c76ec2406db325c8fd5a6f9d00
+      created: 1761074142709
+      modified: 1761074142709
+      sortKey: -1761074142709
+      description: ""
+    children:
+      - name: Usuarios
+        meta:
+          id: fld_7aebcfe65b884b42b8223961af414ded
+          created: 1761074188421
+          modified: 1761074398714
+          sortKey: -1761074380495
+          description: ""
+      - name: Temperaturas
+        meta:
+          id: fld_b6056564573f4bafabd75feb840e1bf1
+          created: 1761074200627
+          modified: 1761074391926
+          sortKey: -1761074380395
+          description: ""
+      - name: Presenças
+        meta:
+          id: fld_0a546d99aa844d31925e921101e349f1
+          created: 1761074213823
+          modified: 1761074380350
+          sortKey: -1761074380295
+          description: ""
+  - name: Clínica Vida+
+    meta:
+      id: fld_3893740a578d449ca1fd538160c59813
+      created: 1761920269510
+      modified: 1762513522566
+      sortKey: -1761920269510
+      description: ""
+    children:
+      - name: Consultas
+        meta:
+          id: fld_b77eee05a9c945268621047ceb2ba3fd
+          created: 1762513342864
+          modified: 1762513342864
+          sortKey: -1762513342864
+          description: ""
+      - name: Pacientes
+        meta:
+          id: fld_12cd42d3cff64b7bbfc09c0350822493
+          created: 1762513359152
+          modified: 1762513359152
+          sortKey: -1762513359152
+          description: ""
+      - name: Médicos
+        meta:
+          id: fld_8ef78215d1a045088b3760f5db74c0c7
+          created: 1762513374860
+          modified: 1762513374860
+          sortKey: -1762513374860
+          description: ""
+      - name: Login
+        meta:
+          id: fld_b677fa1cabf343f7b834eefc5d93067d
+          created: 1762513400874
+          modified: 1762513414902
+          sortKey: -1762513374960
+          description: ""
+      - name: Relatórios
+        meta:
+          id: fld_b7a6c909eacc4738b68eb0d3e8d378d5
+          created: 1762513507466
+          modified: 1762513507466
+          sortKey: -1762513507466
+          description: ""
+      - name: "Usuários "
+        meta:
+          id: fld_ea8bd500963d47b29f9c28951cd72f7f
+          created: 1762513540904
+          modified: 1762514485613
+          sortKey: -1762513540904
+          description: ""
+  - name: Hotel
+    meta:
+      id: fld_14410de3d7bc405cbda12ce13e7f9b31
+      created: 1763120670110
+      modified: 1763120670110
+      sortKey: -1763120670110
+      description: ""
+    children:
+      - name: Hóspedes
+        meta:
+          id: fld_598f69debafa40c08fe82b926d0d44a4
+          created: 1763120682880
+          modified: 1763120682880
+          sortKey: -1763120682880
+          description: ""
+      - name: Quartos
+        meta:
+          id: fld_92145ce6e6074d8e89feab8f5412b3bf
+          created: 1763120690681
+          modified: 1763120690681
+          sortKey: -1763120690681
+          description: ""
+      - name: Reservas
+        meta:
+          id: fld_f9c538aab58640d99bf80846cf279580
+          created: 1763120704043
+          modified: 1763120711702
+          sortKey: -1763120704043
+          description: ""
+      - name: Login
+        meta:
+          id: fld_6014fa8a099142d1b7216f40a8fa5062
+          created: 1763120725123
+          modified: 1763120763969
+          sortKey: -1763120725123
+          description: ""
+  - name: Sala de Estudos Prova
+    meta:
+      id: fld_6400cc9bcd0c43228442055a1ab4af62
+      created: 1764328008274
+      modified: 1770397245029
+      sortKey: -1764328008274
+      description: ""
+    children:
+      - name: Alunos
+        meta:
+          id: fld_2c1e915af9824e6b840c4655502c04a4
+          created: 1764329307135
+          modified: 1764329307135
+          sortKey: -1764329307135
+          description: ""
+      - name: Salas
+        meta:
+          id: fld_b5b61a277d934dd69fabf81bb2899e37
+          created: 1764329328600
+          modified: 1764329328600
+          sortKey: -1764329328600
+          description: ""
+      - name: Reservas
+        meta:
+          id: fld_594833cf91d94a77afe2f29ac5ad4ccf
+          created: 1764329336759
+          modified: 1764329336759
+          sortKey: -1764329336759
+          description: ""
+      - name: Relatórios
+        meta:
+          id: fld_7611555b053b4a3886a125fb5942dd84
+          created: 1764329347308
+          modified: 1764329347308
+          sortKey: -1764329347308
+          description: ""
+  - name: Reservas Biblioteca
+    meta:
+      id: fld_1c3d18ffbb9e46d7bc30706a6bff121e
+      created: 1764331702614
+      modified: 1764331702614
+      sortKey: -1764331702614
+      description: ""
+    children:
+      - name: Salas
+        meta:
+          id: fld_5abd96d5fa2f4bf6a232eee04b21a043
+          created: 1764331731086
+          modified: 1764331731086
+          sortKey: -1764331731086
+          description: ""
+      - name: Alunos
+        meta:
+          id: fld_8968a57b5acd4deb89a74a1e111cdcba
+          created: 1764331844841
+          modified: 1764331844841
+          sortKey: -1764331725576.5
+          description: ""
+      - name: Reservas
+        meta:
+          id: fld_28551de2abbc4c53ad9760b1cf943be4
+          created: 1764331872078
+          modified: 1764331872078
+          sortKey: -1764331714095.25
+          description: ""
+  - name: Controle de Oficinas
+    meta:
+      id: fld_88546e70c3374a15a0216e5b9843cf0f
+      created: 1764354503490
+      modified: 1764354606972
+      sortKey: -1764329428637.5
+      description: ""
+    children:
+      - name: Alunos
+        meta:
+          id: fld_8c9d9b5d553647ecb2c8c5dd0ed750f8
+          created: 1764354652877
+          modified: 1764354652877
+          sortKey: -1764354652877
+          description: ""
+      - name: Inscrições
+        meta:
+          id: fld_b3369c17c74e42fda41768a26fd106ee
+          created: 1764355173401
+          modified: 1764355173401
+          sortKey: -1764355173401
+          description: ""
+      - name: Oficina
+        meta:
+          id: fld_829efefd65fd4f2f8a161604bb03c46c
+          created: 1764356217575
+          modified: 1764356217575
+          sortKey: -1764343191981.5
+          description: ""
+  - name: Backend teste
+    meta:
+      id: fld_8fffb85867044443a8e61933fe217176
+      created: 1770235335819
+      modified: 1775046667924
+      sortKey: -1770235335819
+      description: ""
+  - name: Escola teste
+    meta:
+      id: fld_d42b17bcb3f6406a9546299649dc35e8
+      created: 1771009616841
+      modified: 1771010360850
+      sortKey: -1767282341563.5
+      description: ""
+    children:
+      - name: Turmas
+        meta:
+          id: fld_f696422a35cd4947872cd1226347029b
+          created: 1771012160175
+          modified: 1771012160175
+          sortKey: -1771012160175
+          description: ""
+      - name: Alunos
+        meta:
+          id: fld_994f1ca2de934242a48b1d09918b66a4
+          created: 1771012483604
+          modified: 1771012483604
+          sortKey: -1770623747997
+          description: ""
+  - name: Escola
+    meta:
+      id: fld_215022fa8f894da7b78ce5693312d81f
+      created: 1771010454322
+      modified: 1772221941366
+      sortKey: -1771303352123.5
+      description: ""
+    children:
+      - name: Turmas
+        meta:
+          id: fld_3c6e974784ff40e1b1de3bff2c2fe8be
+          created: 1771011876642
+          modified: 1771012378856
+          sortKey: -1771010995471.5
+          description: ""
+      - name: Alunos
+        meta:
+          id: fld_50159690d4db4a8dad2844b4f771b994
+          created: 1771012307638
+          modified: 1771012368003
+          sortKey: -1771012307638
+          description: ""
+  - name: Aula 4 - Locadora de Veículos
+    meta:
+      id: fld_9d56caa62ab645f2b6071708cd09173f
+      created: 1772210341209
+      modified: 1772210352750
+      sortKey: -1772210341209
+      description: ""
+    children:
+      - name: Carros
+        meta:
+          id: fld_124feab0eef54588a3ee0b8edc16683e
+          created: 1772210341210
+          modified: 1772210341210
+          sortKey: -1772210341210
+          description: ""
+      - name: Clientes
+        meta:
+          id: fld_27cd7c5979274555b68f78e8533dde23
+          created: 1772210341216
+          modified: 1772217504766
+          sortKey: -1772210341216
+          description: ""
+  - name: Projeto Locadora
+    meta:
+      id: fld_04985ec149824ef5bb8acd28105fd145
+      created: 1772211523706
+      modified: 1772211523706
+      sortKey: -1772211523706
+      description: ""
+    children:
+      - name: carros
+        meta:
+          id: fld_a2a4b48aff65431c8afa7cdfd5bfd0ba
+          created: 1772211523729
+          modified: 1772211523729
+          sortKey: -1772211523729
+          description: ""
+      - name: clientes
+        meta:
+          id: fld_7ab90a99d7bc4dbf98aca895c0dbad6f
+          created: 1772211523838
+          modified: 1772211523838
+          sortKey: -1772211523838
+          description: ""
+  - name: Saboré
+    meta:
+      id: fld_ddd3523e1c054a1380376f3db9ba9dd9
+      created: 1773253820153
+      modified: 1773253820153
+      sortKey: -1773253820153
+      description: ""
+    children:
+      - name: Usuários
+        meta:
+          id: fld_ce4e204005564fcb867c74cc2a5cb26a
+          created: 1773253855292
+          modified: 1773253855292
+          sortKey: -1773253855292
+          description: ""
+      - name: Receitas
+        meta:
+          id: fld_0d25cb1c05e34adfb18f0ef6c0b2391e
+          created: 1773255273103
+          modified: 1773255273103
+          sortKey: -1773255273103
+          description: ""
+      - name: "Ingredientes "
+        meta:
+          id: fld_fe4324198d884cfd8bde2b1e43311025
+          created: 1773255948826
+          modified: 1773255948826
+          sortKey: -1773254564197.5
+          description: ""
+      - name: Compartilhamento
+        meta:
+          id: fld_b869adb3414547efb407c4204db2f529
+          created: 1773864147421
+          modified: 1773864147421
+          sortKey: -1773254918650.25
+          description: ""
+      - name: Planos
+        meta:
+          id: fld_2337dbfaa1af48de83ba753d6c57dbea
+          created: 1773864162036
+          modified: 1773864162036
+          sortKey: -1773255095876.625
+          description: ""
+  - name: gitparty
+    meta:
+      id: fld_1849172358e8425ba9179284da922d0b
+      created: 1773423376556
+      modified: 1773423376556
+      sortKey: -1773423376556
+      description: ""
+    children:
+      - name: Usuarios
+        meta:
+          id: fld_749577d7c59942549721c16988b89178
+          created: 1773423376572
+          modified: 1773423376572
+          sortKey: -1773423376572
+          description: ""
+      - name: Eventos
+        meta:
+          id: fld_63841b423e694cecb448158f76c8eeb1
+          created: 1773423376585
+          modified: 1773423376585
+          sortKey: -1773423376585
+          description: ""
+      - name: Inscricoes
+        meta:
+          id: fld_a23467bf80b844d2b673736ef5a70404
+          created: 1773423376592
+          modified: 1778694228663
+          sortKey: -1773423376592
+          description: ""
+      - name: Publicações
+        meta:
+          id: fld_c9051961d885404ba0843ea6a34e3518
+          created: 1778694184705
+          modified: 1778694184705
+          sortKey: -1773423376588.5
+          description: ""
+      - name: Imagens
+        meta:
+          id: fld_274f23b776c444eb8fc6385e3b6dac5c
+          created: 1778694221851
+          modified: 1778694221851
+          sortKey: -1773423376590.25
+          description: ""
+  - name: Bibliotecas
+    meta:
+      id: fld_5575dae58c19412bad16ce4c30c8e9d8
+      created: 1773864205176
+      modified: 1773864205176
+      sortKey: -1772732671995.5
+      description: ""
+    children:
+      - name: Usuários
+        meta:
+          id: fld_7165530052c349eaaaf59690eefada04
+          created: 1773864205179
+          modified: 1773864205179
+          sortKey: -1773253855292
+          description: ""
+      - name: Receitas
+        meta:
+          id: fld_4230718a20414a0eb9d8aaad10b7df99
+          created: 1773864205192
+          modified: 1773864205192
+          sortKey: -1773255273103
+          description: ""
+      - name: "Ingredientes "
+        meta:
+          id: fld_f35243c961724f1bacc8866c201ad592
+          created: 1773864205207
+          modified: 1773864205207
+          sortKey: -1773254564197.5
+          description: ""
+      - name: Compartilhamento
+        meta:
+          id: fld_717ae85d92ac4f7b9f44e1220af8f43a
+          created: 1773864205220
+          modified: 1773864205220
+          sortKey: -1773254918650.25
+          description: ""
+      - name: Planos
+        meta:
+          id: fld_79b718086e544ab7b6a79d96a5901bbb
+          created: 1773864205231
+          modified: 1773864205231
+          sortKey: -1773255095876.625
+          description: ""
+  - name: upload-file
+    meta:
+      id: fld_242147c182834d08a52087b14831179a
+      created: 1775844150886
+      modified: 1779305218664
+      sortKey: -1775844150886
+      description: ""
+    children:
+      - name: Publicacao
+        meta:
+          id: fld_0a13f2f5c3df4856a1b874a7d4eed177
+          created: 1775844150888
+          modified: 1775844150888
+          sortKey: -1775844150889
+          description: ""
+      - name: Imagem
+        meta:
+          id: fld_f11b064ef1fb40d890291ae50286ef44
+          created: 1775844150902
+          modified: 1775844150902
+          sortKey: -1775844150902
+          description: ""
+  - name: UltraTech
+    meta:
+      id: fld_069587c07a524f28a1eabb2948f80d9a
+      created: 1776433308313
+      modified: 1776433308313
+      sortKey: -1776433308313
+      description: ""
+    children:
+      - name: Produtos
+        meta:
+          id: fld_55b266fbbe9e4f228cc9a783fe3fdc4c
+          created: 1776433324118
+          modified: 1776433332412
+          sortKey: -1776433332340
+          description: ""
+      - name: Marcas
+        meta:
+          id: fld_0574a6b1bebe4da3948d87205cf183be
+          created: 1776433700945
+          modified: 1778065191874
+          sortKey: -1776433320326.5
+          description: ""
+      - name: Categorias
+        meta:
+          id: fld_fa1ac1623ba14d3db8fc9e76d3acc623
+          created: 1776433766170
+          modified: 1776433766170
+          sortKey: -1776433314319.75
+          description: ""
+  - name: Tarefas Daily Check
+    meta:
+      id: fld_b631c257beb04caeaabade36b23ca4ae
+      created: 1778065186284
+      modified: 1779305261335
+      sortKey: -1778065186284
+      description: ""
+    children:
+      - name: Tarefas
+        meta:
+          id: fld_5a053c9a019248d59b6f4f1f09a719ed
+          created: 1778065200978
+          modified: 1778065216655
+          sortKey: -1778065210528
+          description: ""
+  - name: Estacionamento
+    meta:
+      id: fld_35e44f53a3eb4a549bfb242b54b8948d
+      created: 1779305229661
+      modified: 1781264329913
+      sortKey: -1779305229661
+      description: ""
+    children:
+      - name: Automóveis
+        meta:
+          id: fld_d0a1fdb5bb1c44d892e97a8675e90fdc
+          created: 1779305248029
+          modified: 1779305255447
+          sortKey: -1779305255392
+          description: ""
+      - name: Estadias
+        meta:
+          id: fld_f51494cef3804fb8a888d7dc6647ac6c
+          created: 1779305269788
+          modified: 1779305276158
+          sortKey: -1779305242526.5
+          description: ""
+  - name: Atividade estadia
+    meta:
+      id: fld_55f17c121e924cf1b07b88d1a78051fd
+      created: 1781264255103
+      modified: 1781264271797
+      sortKey: -1779305229761
+      description: ""
+    children:
+      - name: Reservas
+        meta:
+          id: fld_0c310221191741a2ab2c0a95f5411884
+          created: 1781264255103
+          modified: 1781264310527
+          sortKey: -1778065210528
+          description: ""
+      - name: Quartos
+        meta:
+          id: fld_15b10c35bee24a0fb7450f2b140d8e91
+          created: 1781264289931
+          modified: 1781264480613
+          sortKey: -1778065198406
+          description: ""
+  - name: Just in Time 2026
+    meta:
+      id: fld_aa6a0e55e97e47e49597a788eca3883e
+      created: 1788355475557
+      modified: 1788355503304
+      sortKey: -1779305229711
+      description: ""
+    children:
+      - name: Produção
+        meta:
+          id: fld_ed42d915cc014ebeaf59e552569f77e2
+          created: 1788355709548
+          modified: 1788355717669
+          sortKey: -1788355701422
+          description: ""
+      - name: Usuários
+        meta:
+          id: fld_6ca7fc56e36242f386c5d2fabc8f0f7a
+          created: 1788355860759
+          modified: 1788355860759
+          sortKey: -1783830478407
+          description: ""
+      - name: Produtos
+        meta:
+          id: fld_b4328398a4624599b46646321a5cd49c
+          created: 1788355870939
+          modified: 1788355870939
+          sortKey: -1786093089914.5
+          description: ""
+  - name: Flutter Receitas API
+    meta:
+      id: fld_9985b6f86b554294996488b10d4652d3
+      created: 1791987571952
+      modified: 1791987571952
+      sortKey: -1791987571952
+      description: ""
+  - name: Eventos Climáticos
+    meta:
+      id: fld_bd86dfec6e21431eadf613448b65e1a9
+      created: 1792590991615
+      modified: 1792591028624
+      sortKey: -1779305229686
+      description: ""
+    children:
+      - name: Eventos
+        meta:
+          id: fld_2ee8d662dfc546248cac0826cd9e366a
+          created: 1792590991615
+          modified: 1792591073574
+          sortKey: -1786093089914.5
+          description: ""
+      - name: Usuários
+        meta:
+          id: fld_af1f1f820dde4c45b4aba150cf4cb173
+          created: 1792590991615
+          modified: 1792590991615
+          sortKey: -1783830478407
+          description: ""
+  - name: FlaskAPI Python
+    meta:
+      id: fld_1bc2434004194f18b147e866dafdc90e
+      created: 1792767460622
+      modified: 1792767486304
+      sortKey: -1792683326345
+      description: ""
+    children:
+      - name: Clientes
+        meta:
+          id: fld_307fc38ce6aa4844a8826394eb8ab9c1
+          created: 1792767460622
+          modified: 1792767496347
+          sortKey: -1779305255392
+          description: ""
+      - name: Pizzas
+        meta:
+          id: fld_c2fe53d49bf54fb7aa5f2ef5cf46c3d7
+          created: 1792767460622
+          modified: 1792767522841
+          sortKey: -1779305242526.5
+          description: ""
+      - name: Pedidos
+        meta:
+          id: fld_33fe0a0ac80d4ba8b68eb871ffd8af66
+          created: 1792767514047
+          modified: 1792767514047
+          sortKey: -1779305236143.75
+          description: ""
+      - name: Item Pedido
+        meta:
+          id: fld_2a10334c06d04e6c86450e77e1a3ba84
+          created: 1792767536584
+          modified: 1792767536584
+          sortKey: -1779305232952.375
+          description: ""
+  - name: Loja de Discos
+    meta:
+      id: fld_f1fd587b2b1146dcb5dea28b86043156
+      created: 1793208514968
+      modified: 1793208519262
+      sortKey: -1792683326445
+      description: ""
+    children:
+      - name: Usuários
+        meta:
+          id: fld_6c7b463b14c04118a86b229bea4ddddb
+          created: 1793208514968
+          modified: 1793208514968
+          sortKey: -1783830478407
+          description: ""
+      - name: Discos
+        meta:
+          id: fld_7f578bd0a5e3450bbe540d7747326d9c
+          created: 1793208514968
+          modified: 1793208555307
+          sortKey: -1786093089914.5
+          description: ""
+      - name: Movimentações
+        meta:
+          id: fld_a8d445b015e34d2fa9024985b3cb1994
+          created: 1793208514968
+          modified: 1793208622367
+          sortKey: -1788355701422
+          description: ""
+  - name: API Iot
+    meta:
+      id: fld_c0fe84878dbb4d8a866e141b22060308
+      created: 1793383819923
+      modified: 1793383819923
+      sortKey: -1793383819923
+      description: ""
+  - name: Sensores IOT
+    meta:
+      id: fld_a92f32ecf1894c9aa4d9f8dda21dded2
+      created: 1793991080710
+      modified: 1793991080710
+      sortKey: -1793033573184
+      description: ""
+    children:
+      - url: http://localhost:3000/medicoes
+        name: Medições
+        meta:
+          id: req_6b18c3298b8b4f9cbf69c0bb1595a4b9
+          created: 1793991080710
+          modified: 1793991679453
+          isPrivate: false
+          description: ""
+          sortKey: -1793383831868
+        method: POST
+        body:
+          mimeType: application/json
+          text: |-
+            {
+              "temperatura": 25.5,
+              "umidade": 60.2,
+              "luminosidade": 300
+            }
+        headers:
+          - name: Content-Type
+            value: application/json
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+      - url: http://localhost:3000/listar
+        name: Rota inicial
+        meta:
+          id: req_ed71f4e69ce847d8b9016f75720d6f7e
+          created: 1793991080710
+          modified: 1793993281871
+          isPrivate: false
+          description: ""
+          sortKey: -1793383896996
+        method: GET
+        settings:
+          renderRequestBody: true
+          encodeUrl: true
+          followRedirects: global
+          cookies:
+            send: true
+            store: true
+          rebuildPath: true
+cookieJar:
+  name: Default Jar
+  meta:
+    id: jar_a4a96d752afea78f0085d475062beeffc7adfa05
+    created: 1775046382838
+    modified: 1775046382838
+environments:
+  name: Base Environment
+  meta:
+    id: env_87a591adbb5c4981a9a5d40baba4ad07
+    created: 1756466017957
+    modified: 1775046382667
+    isPrivate: false
