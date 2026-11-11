@@ -175,9 +175,9 @@ Abra o sketch final na Arduino IDE. O código abaixo é o `exemplo.ino` usado no
 #include <HTTPClient.h>
 #include <DHT.h>
 
-const char* wifiNome = "TI_SENAI2";
-const char* wifiSenha = "senai2025";
-const char* urlApi = "http://192.168.1.150:3000/medicoes";
+const char* wifiNome = "NOME_DA_REDE";
+const char* wifiSenha = "SENHA_DA_REDE";
+const char* urlApi = "http://IP_LOCAL:3000/medicoes";
 
 #define DHTPIN 18
 #define DHTTYPE DHT11
